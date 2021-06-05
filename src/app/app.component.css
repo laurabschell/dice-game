@@ -12,6 +12,7 @@
 .winning-text span {
   text-transform: uppercase;
   color: #12c012;
+  text-shadow: 5px 5px 15px rgba(0, 0, 0, 0.837);
   font-size: 3rem;
   font-family: 'Lato';
   font-weight: 900;

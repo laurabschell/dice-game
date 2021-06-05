@@ -19,6 +19,6 @@ export class AppComponent {
     this.second = Math.round(Math.random()*5) + 1;
 
     this.leftDice = '../assets/img/dice' + this.first + '.png';
-    this.rightDice = '../assets/img/dice' + this.first + '.png';
+    this.rightDice = '../assets/img/dice' + this.second + '.png';
   }
 }
